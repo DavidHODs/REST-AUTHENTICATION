@@ -1,0 +1,16 @@
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+FarmTest-env/
+.FarmTest-env
+
+# Exclude machine-specific vs code settings
+.vscode/settings.json
